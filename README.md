@@ -55,9 +55,6 @@ Multi-Camera Images (6 views)
 ## Setup
 
 ```bash
-# Clone
-git clone https://github.com/dussa-harshitha/bev-occupancy.git
-cd bev-occupancy
 
 # Environment
 conda create -n bevocc python=3.9 -y
